@@ -31,7 +31,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Cloud Coputing and everything the cloud.                </b>
+                  Cloud Computing and everything the cloud.                </b>
               </i>
               <br />
               <br />
