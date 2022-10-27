@@ -5,7 +5,6 @@ import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
   AiOutlineTwitter,
-  AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -19,10 +18,9 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I'm an avid learner who's passionate and zealous about developing products that could chage a thing, or two!
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in the likes of:
               <i>
                 <b className="purple"> Google Cloud, Javascript and Python. </b>
               </i>
